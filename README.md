@@ -1,8 +1,8 @@
 # Audio Denoiser Results
 
-Hako Yamasaki - Nostalgia
+#### Hako Yamasaki - Nostalgia
 ![](denoiser_results/hako.jpg)
 
 
-Funkadelic - Maggot Brain
+#### Funkadelic - Maggot Brain
 ![](denoiser_results/maggot.jpg)
