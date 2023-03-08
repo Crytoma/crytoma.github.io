@@ -5,4 +5,4 @@
 
 
 #### Funkadelic - Maggot Brain
-![](denoiser_results/maggot.jpg)
+![](denoiser_results/maggot.png)
