@@ -1,4 +1,4 @@
-# Audio-Denoiser
+# Audio Denoiser Results
 
 Hako Yamasaki - Nostalgia (Before -> After)
 ![](spectrogram_results/hako.png)
